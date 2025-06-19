@@ -71,6 +71,6 @@ As well each test case has assertions for:
 - URL redirection.
 
 ### :dolphin: Project structure:
-- e2e: folder to save the test files.
-- fixtures: folder to save files that contains data test.
-- pages: folder to save the Page Object Models that might be needed. So LoginPage.js has the logic with the methods that validates data and assertions.
+- **e2e:** folder to save the test files.
+- **fixtures:** folder to save files that contains data test.
+- **pages:** folder to save the Page Object Models that might be needed. So LoginPage.js has the logic with the methods that validates data and assertions.
