@@ -51,7 +51,6 @@ npm test
 ![3](https://github.com/user-attachments/assets/3e099a74-54af-4378-9fc6-2598b3ac728c)
 
 + It will ask you to choose a browser, you can opt for any.
-![4](https://github.com/user-attachments/assets/a1610456-7b3a-4cf9-8e4e-d26610f59fa1)
 
 + Start E2E Testing.
 + It will direct you to the home screen.
